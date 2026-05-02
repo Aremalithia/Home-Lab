@@ -1,0 +1,4 @@
+## May 1st, 2026
+
+Kernal update 6.17.0-23 broke RTL8169 Ethernet and NVIDIA graphics. Resolved by rolling back with Timeshift.
+- Decision: Stay on working kernal until driver compatibility is confirmed.
